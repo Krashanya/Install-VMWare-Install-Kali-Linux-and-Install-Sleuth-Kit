@@ -1,6 +1,6 @@
 # Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
-### Name:
-### Reg No:
+### Name: Krashanya G
+### Reg No: 212225230144
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
@@ -41,6 +41,7 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
    fls -version
    
 ## PROGRAM:
+
 
 ## OUTPUT:
 **VIRTUAL BOX:**
